@@ -18,7 +18,7 @@ RUN apt-get update \
 #    libz-dev \
 #    libpq-dev \
 #    libzip-dev \
-#    libonig-dev \
+    libonig-dev \
 #    libjpeg62-turbo-dev \
 #    libjpeg-dev \
 #    libpng-dev \
