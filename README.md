@@ -1,9 +1,10 @@
-1. docker-lnmp 项目帮助开发者快速构建本地开发环境，包括Nginx、PHP、MySQL、Redis 服务镜像，支持配置文件和日志文件映射，不限操作系统；
-2. 此项目适合个人开发者本机部署，可以快速切换服务版本满足学习服务新版本的需求； 也适合团队中统一开发环境，设定好配置后一键部署， 便于提高团队开发效率；
-3. PHP 版本 php7.4；
-4. MySQL 支持 5.7 、8.0 版本；
-5. Redis 支持6.0 版本；
-6. PHP 扩展包括了redis、等；
+1. 自己学习使用
+2. docker-lnmp 项目帮助开发者快速构建本地开发环境，包括Nginx、PHP、MySQL、Redis 服务镜像，支持配置文件和日志文件映射，不限操作系统；
+3. 此项目适合个人开发者本机部署，可以快速切换服务版本满足学习服务新版本的需求； 也适合团队中统一开发环境，设定好配置后一键部署， 便于提高团队开发效率；
+4. PHP 版本 php7.4；
+5. MySQL 支持 5.7 、8.0 版本；
+6. Redis 支持6.0 版本；
+7. PHP 扩展包括了redis、等；
 
 ### 一. [install docker](https://github.com/ogenes/docker-lnmp/wiki/Docker-%E7%AE%80%E4%BB%8B%E5%8F%8A%E5%AE%89%E8%A3%85)
 
@@ -19,7 +20,7 @@ Docker Compose version v2.12.2
 ```$xslt
 $ pwd
 /d/app
-$ git clone https://github.com/ogenes/docker-lnmp.git
+$ git clone https://github.com/kuibaking/lnmp.git
 ```
 ### 三. init
 ```shell script
