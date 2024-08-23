@@ -17,7 +17,7 @@ RUN apt-get update \
 #    libmemcached-dev \
 #    libz-dev \
 #    libpq-dev \
-#    libzip-dev \
+    libzip-dev \
     libonig-dev \
 #    libjpeg62-turbo-dev \
 #    libjpeg-dev \
